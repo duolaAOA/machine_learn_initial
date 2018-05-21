@@ -12,6 +12,8 @@ scipy = "*"
 matplotlib = "*"
 sklearn = "*"
 jupyter = "*"
+pillow = "*"
+pandas = "*"
 
 
 [dev-packages]
