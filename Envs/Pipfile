@@ -14,6 +14,9 @@ sklearn = "*"
 jupyter = "*"
 pillow = "*"
 pandas = "*"
+tensorflow = "*"
+"a72ba9a" = {path = ".\\opencv_python-3.4.1-cp36-cp36m-win_amd64.whl"}
+pygame = "*"
 
 
 [dev-packages]
